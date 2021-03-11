@@ -1,0 +1,17 @@
+master:
+  script:
+    - mvn clean test-B -N -U
+  tags:
+    - mvn
+  only:
+    - master
+
+branches:
+  script:
+    - mvn clean test -B -N -U
+  tags:
+    - mvn
+  only:
+    - branches
+  except:
+    - master
