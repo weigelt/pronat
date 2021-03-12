@@ -4,3 +4,6 @@
 [submodule "pronat_post_pipe_data_model"]
 	path = pronat_post_pipe_data_model
 	url = git@code.ipd.kit.edu:parse/pronat_post_pipe_data_model.git
+[submodule "pronat_bundle"]
+	path = pronat_bundle
+	url = git@code.ipd.kit.edu:weigelt/parse_bundle.git
