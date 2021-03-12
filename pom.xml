@@ -238,9 +238,9 @@
             </dependency>
             <!-- ProNat dependencies -->
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>ShallowNLP</artifactId>
-                <version>0.0.14</version>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>shallow_nlp</artifactId>
+                <version>0.1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -421,5 +421,6 @@
         <module>pronat_bundle</module>
         <module>pronat_senna_wrapper</module>
         <module>pronat_bios</module>
+        <module>pronat_shallowNLP</module>
     </modules>
 </project>
