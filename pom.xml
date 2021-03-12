@@ -402,6 +402,16 @@
                 <artifactId>teaching_detector</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
+            <dependency>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>pre_pipeline_data_model</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>post_pipeline_data_model</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
