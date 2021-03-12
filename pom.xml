@@ -406,5 +406,7 @@
     </dependencyManagement>
 
     <modules>
+        <module>pronat_pre_pipe_data_model</module>
+        <module>pronat_post_pipe_data_model</module>
     </modules>
 </project>
