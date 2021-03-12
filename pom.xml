@@ -288,9 +288,9 @@
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>senna-wrapper</artifactId>
-                <version>0.0.5-SNAPSHOT</version>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>pronat_senna_wrapper</artifactId>
+                <version>0.0.6-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -419,5 +419,6 @@
         <module>pronat_pre_pipe_data_model</module>
         <module>pronat_post_pipe_data_model</module>
         <module>pronat_bundle</module>
+        <module>pronat_senna_wrapper</module>
     </modules>
 </project>
