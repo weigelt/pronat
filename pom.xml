@@ -248,9 +248,9 @@
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>asr</artifactId>
-                <version>0.0.5-SNAPSHOT</version>
+                <version>0.0.6-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -422,5 +422,6 @@
         <module>pronat_senna_wrapper</module>
         <module>pronat_bios</module>
         <module>pronat_shallowNLP</module>
+        <module>pronat_asr</module>
     </modules>
 </project>
