@@ -278,8 +278,8 @@
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>actionRecognizer</artifactId>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>action_analyzer</artifactId>
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
@@ -433,5 +433,6 @@
         <module>pronat_timeout_watchdog</module>
         <module>pronat_change_watchdog</module>
         <module>pronat_cycle_watchdog</module>
+        <module>pronat_action_analyzer</module>
     </modules>
 </project>
