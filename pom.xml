@@ -258,9 +258,9 @@
                 <version>0.0.2</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>ner</artifactId>
-                <version>0.0.2</version>
+                <version>0.0.3-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -423,5 +423,6 @@
         <module>pronat_bios</module>
         <module>pronat_shallowNLP</module>
         <module>pronat_asr</module>
+        <module>pronat_ner</module>
     </modules>
 </project>
