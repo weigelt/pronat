@@ -333,9 +333,9 @@
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>timeout_watchdog</artifactId>
-                <version>0.0.2</version>
+                <version>0.0.3-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -430,5 +430,6 @@
         <module>pronat_ast_extractor</module>
         <module>pronat_code_gen</module>
         <module>pronat_code_injector</module>
+        <module>pronat_timeout_watchdog</module>
     </modules>
 </project>
