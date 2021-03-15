@@ -353,7 +353,7 @@
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>ast_extractor</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
@@ -427,5 +427,6 @@
         <module>pronat_srl</module>
         <module>pronat_graph_builder</module>
         <module>pronat_ast_synth</module>
+        <module>pronat_ast_extractor</module>
     </modules>
 </project>

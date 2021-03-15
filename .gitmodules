@@ -31,3 +31,6 @@
 [submodule "pronat_ast_synth"]
 	path = pronat_ast_synth
 	url = git@code.ipd.kit.edu:parse/parse_ast_synth.git
+[submodule "pronat_ast_extractor"]
+	path = pronat_ast_extractor
+	url = git@code.ipd.kit.edu:parse/parse_ast_extractor.git
