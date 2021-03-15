@@ -43,3 +43,6 @@
 [submodule "pronat_timeout_watchdog"]
 	path = pronat_timeout_watchdog
 	url = git@code.ipd.kit.edu:parse/parse_timeout_watchdog.git
+[submodule "pronat_change_watchdog"]
+	path = pronat_change_watchdog
+	url = git@code.ipd.kit.edu:parse/parse_change_watchdog.git
