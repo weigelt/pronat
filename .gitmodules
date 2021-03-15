@@ -25,3 +25,6 @@
 [submodule "pronat_srl"]
 	path = pronat_srl
 	url = git@code.ipd.kit.edu:weigelt/parse_srl.git
+[submodule "pronat_graph_builder"]
+	path = pronat_graph_builder
+	url = git@code.ipd.kit.edu:weigelt/parse_graph_builder.git
