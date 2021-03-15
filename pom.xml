@@ -363,7 +363,7 @@
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>code_injector</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
@@ -429,5 +429,6 @@
         <module>pronat_ast_synth</module>
         <module>pronat_ast_extractor</module>
         <module>pronat_code_gen</module>
+        <module>pronat_code_injector</module>
     </modules>
 </project>

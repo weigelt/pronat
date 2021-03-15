@@ -37,3 +37,6 @@
 [submodule "pronat_code_gen"]
 	path = pronat_code_gen
 	url = git@code.ipd.kit.edu:parse/parse_code_gen.git
+[submodule "pronat_code_injector"]
+	path = pronat_code_injector
+	url = git@code.ipd.kit.edu:parse/parse_code_injector.git
