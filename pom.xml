@@ -293,9 +293,9 @@
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>SRLabeler</artifactId>
-                <version>0.1.6</version>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>srl</artifactId>
+                <version>0.1.7-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -424,5 +424,6 @@
         <module>pronat_shallowNLP</module>
         <module>pronat_asr</module>
         <module>pronat_ner</module>
+        <module>pronat_srl</module>
     </modules>
 </project>
