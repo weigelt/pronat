@@ -28,3 +28,6 @@
 [submodule "pronat_graph_builder"]
 	path = pronat_graph_builder
 	url = git@code.ipd.kit.edu:weigelt/parse_graph_builder.git
+[submodule "pronat_ast_synth"]
+	path = pronat_ast_synth
+	url = git@code.ipd.kit.edu:parse/parse_ast_synth.git
