@@ -425,5 +425,6 @@
         <module>pronat_asr</module>
         <module>pronat_ner</module>
         <module>pronat_srl</module>
+        <module>pronat_graph_builder</module>
     </modules>
 </project>
