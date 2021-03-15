@@ -338,9 +338,9 @@
                 <version>0.0.3-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>cycle_watchdog</artifactId>
-                <version>0.0.2</version>
+                <version>0.0.3-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.pronat</groupId>
@@ -432,5 +432,6 @@
         <module>pronat_code_injector</module>
         <module>pronat_timeout_watchdog</module>
         <module>pronat_change_watchdog</module>
+        <module>pronat_cycle_watchdog</module>
     </modules>
 </project>
