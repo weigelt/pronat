@@ -298,9 +298,9 @@
                 <version>0.1.7-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>wsd</artifactId>
-                <version>0.0.3-SNAPSHOT</version>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>babelfy_wsd</artifactId>
+                <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -434,5 +434,6 @@
         <module>pronat_change_watchdog</module>
         <module>pronat_cycle_watchdog</module>
         <module>pronat_action_analyzer</module>
+        <module>pronat_babelfy_wsd</module>
     </modules>
 </project>
