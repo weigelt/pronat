@@ -64,3 +64,6 @@
 [submodule "pronat_coref"]
 	path = pronat_coref
 	url = git@code.ipd.kit.edu:weigelt/parse_coref.git
+[submodule "pronat_voice_recorder"]
+	path = pronat_voice_recorder
+	url = git@code.ipd.kit.edu:weigelt/parse_recorder.git
