@@ -61,3 +61,6 @@
 [submodule "pronat_condition_detection"]
 	path = pronat_condition_detection
 	url = git@code.ipd.kit.edu:weigelt/parse_condition_detection.git
+[submodule "pronat_coref"]
+	path = pronat_coref
+	url = git@code.ipd.kit.edu:weigelt/parse_coref.git
