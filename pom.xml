@@ -273,9 +273,9 @@
                 <version>0.0.5-eval-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>coref</artifactId>
-                <version>0.0.4-SNAPSHOT</version>
+                <version>0.0.5-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.pronat</groupId>
@@ -308,9 +308,9 @@
                 <version>0.0.5-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>loop_detection</artifactId>
-                <version>0.0.3-SNAPSHOT</version>
+                <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
@@ -436,7 +436,9 @@
         <module>pronat_action_analyzer</module>
         <module>pronat_babelfy_wsd</module>
         <module>pronat_context</module>
+        <module>pronat_coref</module>
         <module>pronat_condition_detection</module>
+        <module>pronat_loop_detection</module>
         <module>pronat_voice_recorder</module>
         <module>pronat_teaching_detector</module>
     </modules>
