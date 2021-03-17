@@ -67,3 +67,6 @@
 [submodule "pronat_voice_recorder"]
 	path = pronat_voice_recorder
 	url = git@code.ipd.kit.edu:weigelt/parse_recorder.git
+[submodule "pronat_teaching_detector"]
+	path = pronat_teaching_detector
+	url = git@code.ipd.kit.edu:parse/parse_teaching_detector.git
