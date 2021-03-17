@@ -323,9 +323,9 @@
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>VaMoS</artifactId>
-                <version>0.0.4-SNAPSHOT</version>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>method_synthesizer</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.pronat</groupId>
@@ -437,5 +437,6 @@
         <module>pronat_voice_recorder</module>
         <module>pronat_teaching_detector</module>
         <module>pronat_concurrency_detection</module>
+        <module>pronat_method_synthesizer</module>
     </modules>
 </project>
