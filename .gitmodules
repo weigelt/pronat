@@ -79,3 +79,6 @@
 [submodule "pronat_method_synthesizer"]
 	path = pronat_method_synthesizer
 	url = git@code.ipd.kit.edu:parse/parse_method_synthesizer.git
+[submodule "pronat_disfluency"]
+	path = pronat_disfluency
+	url = git@code.ipd.kit.edu:parse/parse_disfluency.git
