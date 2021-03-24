@@ -329,9 +329,9 @@
                 <version>0.0.4-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>dialog_agent</artifactId>
-                <version>0.0.1</version>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.pronat</groupId>
@@ -460,5 +460,6 @@
         <module>pronat_concurrency_detection</module>
         <module>pronat_method_synthesizer</module>
         <module>pronat_disfluency</module>
+        <module>pronat_dialog_agent</module>
     </modules>
 </project>
