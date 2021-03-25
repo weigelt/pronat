@@ -379,18 +379,18 @@
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>wiki_wsd_models</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>wikiWSDClassifier</artifactId>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>wiki_wsd_classifier</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
-                <artifactId>wikiWSD</artifactId>
+                <groupId>edu.kit.ipd.pronat</groupId>
+                <artifactId>wiki_wsd</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
@@ -461,5 +461,8 @@
         <module>pronat_method_synthesizer</module>
         <module>pronat_disfluency</module>
         <module>pronat_dialog_agent</module>
+        <module>pronat_wiki_wsd_models</module>
+        <module>pronat_wiki_wsd_classifier</module>
+        <module>pronat_wiki_wsd_agent</module>
     </modules>
 </project>
