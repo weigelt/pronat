@@ -97,3 +97,6 @@
 [submodule "pronat_wiki_wsd_trainer"]
 	path = pronat_wiki_wsd_trainer
 	url = git@code.ipd.kit.edu:parse/parse_wiki_wsd_trainer.git
+[submodule "pronat_topic_extraction_common"]
+	path = pronat_topic_extraction_common
+	url = git@code.ipd.kit.edu:parse/parse_topic_extraction_common.git

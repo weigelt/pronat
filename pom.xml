@@ -394,7 +394,7 @@
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>edu.kit.ipd.parse</groupId>
+                <groupId>edu.kit.ipd.pronat</groupId>
                 <artifactId>topic_extraction_common</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
@@ -464,5 +464,6 @@
         <module>pronat_wiki_wsd_models</module>
         <module>pronat_wiki_wsd_classifier</module>
         <module>pronat_wiki_wsd_agent</module>
+        <module>pronat_topic_extraction_common</module>
     </modules>
 </project>
