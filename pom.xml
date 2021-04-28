@@ -21,12 +21,12 @@
         <repository>
             <id>ipdNexus-public-releases</id>
             <name>IPD-Repository</name>
-            <url>http://bob.ipd.kit.edu/nexus/repository/maven-public-releases</url>
+            <url>https://bob.ipd.kit.edu/nexus/repository/maven-public-releases</url>
         </repository>
         <repository>
             <id>ipdNexus-public-snapshots</id>
             <name>IPD-Repository</name>
-            <url>http://bob.ipd.kit.edu/nexus/repository/maven-public-snapshots</url>
+            <url>https://bob.ipd.kit.edu/nexus/repository/maven-public-snapshots</url>
         </repository>
     </repositories>
 
@@ -34,7 +34,7 @@
         <pluginRepository>
             <id>ipdNexus-public-plugin-releases</id>
             <name>IPD-Repository</name>
-            <url>http://bob.ipd.kit.edu/nexus/repository/maven-public-releases</url>
+            <url>https://bob.ipd.kit.edu/nexus/repository/maven-public-releases</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -42,7 +42,7 @@
         <pluginRepository>
             <id>ipdNexus-public-plugin-snapshots</id>
             <name>IPD-Repository</name>
-            <url>http://bob.ipd.kit.edu/nexus/repository/maven-public-snapshots</url>
+            <url>https://bob.ipd.kit.edu/nexus/repository/maven-public-snapshots</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
