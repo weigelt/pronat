@@ -234,23 +234,23 @@
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
                 <artifactId>luna</artifactId>
-                <version>0.7.4</version>
+                <version>0.7.5</version>
                 <classifier>javadoc</classifier>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
                 <artifactId>luna</artifactId>
-                <version>0.7.4</version>
+                <version>0.7.5</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
                 <artifactId>ontology_connection</artifactId>
-                <version>0.1.1</version>
+                <version>0.1.2</version>
             </dependency>
             <dependency>
                 <groupId>edu.kit.ipd.parse</groupId>
                 <artifactId>tools</artifactId>
-                <version>0.0.4</version>
+                <version>0.0.5</version>
             </dependency>
             <!-- ProNat dependencies -->
             <dependency>
