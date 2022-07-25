@@ -18,7 +18,7 @@
 	url = git@code.ipd.kit.edu:weigelt/parse_bios.git
 [submodule "pronat_asr"]
 	path = pronat_asr
-	url = git@code.ipd.kit.edu:weigelt/parse_asr.git
+	url = git@github.com:weigelt/pronat_asr.git
 [submodule "pronat_ner"]
 	path = pronat_ner
 	url = git@code.ipd.kit.edu:weigelt/parse_ner.git
