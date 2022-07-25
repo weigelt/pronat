@@ -51,7 +51,7 @@
 	url = git@code.ipd.kit.edu:parse/parse_cycle_watchdog.git
 [submodule "pronat_action_analyzer"]
 	path = pronat_action_analyzer
-	url = git@code.ipd.kit.edu:weigelt/parse_action_analyzer.git
+	url = git@github.com:weigelt/pronat_action_analyzer.git
 [submodule "pronat_babelfy_wsd"]
 	path = pronat_babelfy_wsd
 	url = git@code.ipd.kit.edu:weigelt/parse_wsd.git
