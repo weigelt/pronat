@@ -54,7 +54,7 @@
 	url = git@github.com:weigelt/pronat_action_analyzer.git
 [submodule "pronat_babelfy_wsd"]
 	path = pronat_babelfy_wsd
-	url = git@code.ipd.kit.edu:weigelt/parse_wsd.git
+	url = git@github.com:weigelt/pronat_babelfy_wsd.git
 [submodule "pronat_context"]
 	path = pronat_context
 	url = git@code.ipd.kit.edu:weigelt/parse_context.git
