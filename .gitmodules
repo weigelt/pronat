@@ -15,7 +15,7 @@
 	url = git@code.ipd.kit.edu:lama/senna_wrapper.git
 [submodule "pronat_bios"]
 	path = pronat_bios
-	url = git@code.ipd.kit.edu:weigelt/parse_bios.git
+	url = git@github.com:weigelt/pronat_bios.git
 [submodule "pronat_asr"]
 	path = pronat_asr
 	url = git@github.com:weigelt/pronat_asr.git
