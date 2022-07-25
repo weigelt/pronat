@@ -45,7 +45,7 @@
 	url = git@code.ipd.kit.edu:parse/parse_timeout_watchdog.git
 [submodule "pronat_change_watchdog"]
 	path = pronat_change_watchdog
-	url = git@code.ipd.kit.edu:parse/parse_change_watchdog.git
+	url = git@github.com:weigelt/pronat_change_watchdog.git
 [submodule "pronat_cycle_watchdog"]
 	path = pronat_cycle_watchdog
 	url = git@code.ipd.kit.edu:parse/parse_cycle_watchdog.git
