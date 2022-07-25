@@ -33,7 +33,7 @@
 	url = git@code.ipd.kit.edu:parse/parse_ast_synth.git
 [submodule "pronat_ast_extractor"]
 	path = pronat_ast_extractor
-	url = git@code.ipd.kit.edu:parse/parse_ast_extractor.git
+	url = git@github.com:weigelt/pronat_ast_extractor.git
 [submodule "pronat_code_gen"]
 	path = pronat_code_gen
 	url = git@code.ipd.kit.edu:parse/parse_code_gen.git
