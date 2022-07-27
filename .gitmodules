@@ -75,7 +75,7 @@
 	url = git@code.ipd.kit.edu:weigelt/parse_loop_detection.git
 [submodule "pronat_concurrency_detection"]
 	path = pronat_concurrency_detection
-	url = git@code.ipd.kit.edu:weigelt/parse_concurrent_action_dection.git
+	url = git@github.com:weigelt/pronat_concurrency_detection.git
 [submodule "pronat_method_synthesizer"]
 	path = pronat_method_synthesizer
 	url = git@code.ipd.kit.edu:parse/parse_method_synthesizer.git
