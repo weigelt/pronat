@@ -57,7 +57,7 @@
 	url = git@github.com:weigelt/pronat_babelfy_wsd.git
 [submodule "pronat_context"]
 	path = pronat_context
-	url = git@code.ipd.kit.edu:weigelt/parse_context.git
+	url = git@github.com:weigelt/pronat_context.git
 [submodule "pronat_condition_detection"]
 	path = pronat_condition_detection
 	url = git@github.com:weigelt/pronat_condition_detection.git
