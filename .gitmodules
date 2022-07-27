@@ -48,7 +48,7 @@
 	url = git@github.com:weigelt/pronat_change_watchdog.git
 [submodule "pronat_cycle_watchdog"]
 	path = pronat_cycle_watchdog
-	url = git@code.ipd.kit.edu:parse/parse_cycle_watchdog.git
+	url = git@github.com:weigelt/pronat_cycle_watchdog.git
 [submodule "pronat_action_analyzer"]
 	path = pronat_action_analyzer
 	url = git@github.com:weigelt/pronat_action_analyzer.git
