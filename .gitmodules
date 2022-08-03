@@ -105,4 +105,4 @@
 	url = git@code.ipd.kit.edu:parse/parse_topic_extraction.git
 [submodule "pronat_ontology_selection"]
 	path = pronat_ontology_selection
-	url = git@code.ipd.kit.edu:parse/parse_ontology_selection.git
+	url = git@github.com:weigelt/pronat_ontology_selection.git
