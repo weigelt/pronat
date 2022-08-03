@@ -1,6 +1,6 @@
 [submodule "pronat_pre_pipe_data_model"]
 	path = pronat_pre_pipe_data_model
-	url = git@code.ipd.kit.edu:parse/pronat_pre_pipe_data_model.git
+	url = git@github.com:weigelt/pronat_pre_pipe_data_model.git
 [submodule "pronat_post_pipe_data_model"]
 	path = pronat_post_pipe_data_model
 	url = git@github.com:weigelt/pronat_post_pipe_data_model.git
