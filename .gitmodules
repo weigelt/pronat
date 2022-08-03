@@ -78,7 +78,7 @@
 	url = git@github.com:weigelt/pronat_concurrency_detection.git
 [submodule "pronat_method_synthesizer"]
 	path = pronat_method_synthesizer
-	url = git@code.ipd.kit.edu:parse/parse_method_synthesizer.git
+	url = git@github.com:weigelt/pronat_method_synthesizer.git
 [submodule "pronat_disfluency"]
 	path = pronat_disfluency
 	url = git@github.com:weigelt/pronat_disfluency.git
