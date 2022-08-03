@@ -81,7 +81,7 @@
 	url = git@code.ipd.kit.edu:parse/parse_method_synthesizer.git
 [submodule "pronat_disfluency"]
 	path = pronat_disfluency
-	url = git@code.ipd.kit.edu:parse/parse_disfluency.git
+	url = git@github.com:weigelt/pronat_disfluency.git
 [submodule "pronat_dialog_agent"]
 	path = pronat_dialog_agent
 	url = git@github.com:weigelt/pronat_dialog_agent.git
