@@ -72,7 +72,7 @@
 	url = git@code.ipd.kit.edu:parse/parse_teaching_detector.git
 [submodule "pronat_loop_detection"]
 	path = pronat_loop_detection
-	url = git@code.ipd.kit.edu:weigelt/parse_loop_detection.git
+	url = git@github.com:weigelt/pronat_loop_detection.git
 [submodule "pronat_concurrency_detection"]
 	path = pronat_concurrency_detection
 	url = git@github.com:weigelt/pronat_concurrency_detection.git
