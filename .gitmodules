@@ -21,7 +21,7 @@
 	url = git@github.com:weigelt/pronat_asr.git
 [submodule "pronat_ner"]
 	path = pronat_ner
-	url = git@code.ipd.kit.edu:weigelt/parse_ner.git
+	url = git@github.com:weigelt/pronat_ner.git
 [submodule "pronat_srl"]
 	path = pronat_srl
 	url = git@code.ipd.kit.edu:weigelt/parse_srl.git
