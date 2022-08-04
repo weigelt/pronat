@@ -69,7 +69,7 @@
 	url = git@code.ipd.kit.edu:weigelt/parse_recorder.git
 [submodule "pronat_teaching_detector"]
 	path = pronat_teaching_detector
-	url = git@code.ipd.kit.edu:parse/parse_teaching_detector.git
+	url = git@github.com:weigelt/pronat_teaching_detector.git
 [submodule "pronat_loop_detection"]
 	path = pronat_loop_detection
 	url = git@github.com:weigelt/pronat_loop_detection.git
