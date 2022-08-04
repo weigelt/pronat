@@ -12,7 +12,7 @@
 	url = git@code.ipd.kit.edu:weigelt/parse_shallowNLP.git
 [submodule "pronat_senna_wrapper"]
 	path = pronat_senna_wrapper
-	url = git@code.ipd.kit.edu:lama/senna_wrapper.git
+	url = git@github.com:weigelt/pronat_senna_wrapper.git
 [submodule "pronat_bios"]
 	path = pronat_bios
 	url = git@github.com:weigelt/pronat_bios.git
