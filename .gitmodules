@@ -66,7 +66,7 @@
 	url = git@github.com:weigelt/pronat_coref.git
 [submodule "pronat_voice_recorder"]
 	path = pronat_voice_recorder
-	url = git@code.ipd.kit.edu:weigelt/parse_recorder.git
+	url = git@github.com:weigelt/pronat_voice_recorder.git
 [submodule "pronat_teaching_detector"]
 	path = pronat_teaching_detector
 	url = git@github.com:weigelt/pronat_teaching_detector.git
