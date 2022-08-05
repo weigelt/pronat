@@ -93,7 +93,7 @@
 	url = git@github.com:weigelt/pronat_wiki_wsd_classifier.git
 [submodule "pronat_wiki_wsd_trainer"]
 	path = pronat_wiki_wsd_trainer
-	url = git@code.ipd.kit.edu:parse/parse_wiki_wsd_trainer.git
+	url = git@github.com:weigelt/pronat_wiki_wsd_trainer.git
 [submodule "pronat_topic_extraction_common"]
 	path = pronat_topic_extraction_common
 	url = git@github.com:weigelt/pronat_topic_extraction_common.git
