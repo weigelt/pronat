@@ -461,9 +461,6 @@
         <module>pronat_method_synthesizer</module>
         <module>pronat_disfluency</module>
         <module>pronat_dialog_agent</module>
-        <module>pronat_wiki_wsd_models</module>
-        <module>pronat_wiki_wsd_classifier</module>
-        <module>pronat_wiki_wsd_agent</module>
         <module>pronat_topic_extraction_common</module>
         <module>pronat_topic_extraction</module>
         <module>pronat_ontology_selection</module>
