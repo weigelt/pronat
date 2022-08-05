@@ -6,7 +6,7 @@
 	url = git@github.com:weigelt/pronat_post_pipe_data_model.git
 [submodule "pronat_bundle"]
 	path = pronat_bundle
-	url = git@code.ipd.kit.edu:weigelt/parse_bundle.git
+	url = git@github.com:weigelt/pronat_bundle.git
 [submodule "pronat_shallowNLP"]
 	path = pronat_shallowNLP
 	url = git@github.com:weigelt/pronat_shallowNLP.git
