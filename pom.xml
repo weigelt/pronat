@@ -404,7 +404,6 @@
     <modules>
         <module>pronat_pre_pipe_data_model</module>
         <module>pronat_post_pipe_data_model</module>
-        <module>pronat_bundle</module>
         <module>pronat_senna_wrapper</module>
         <module>pronat_bios</module>
         <module>pronat_shallowNLP</module>
@@ -430,6 +429,8 @@
         <module>pronat_concurrency_detection</module>
         <module>pronat_method_synthesizer</module>
         <module>pronat_disfluency</module>
+        <module>pronat_bundle</module>
+        <module>pronat_runner</module>
 <!--        <module>pronat_dialog_agent</module>-->
 <!--        <module>pronat_topic_extraction_common</module>-->
 <!--        <module>pronat_topic_extraction</module>-->
