@@ -103,3 +103,6 @@
 [submodule "pronat_ontology_selection"]
 	path = pronat_ontology_selection
 	url = git@github.com:weigelt/pronat_ontology_selection.git
+[submodule "pronat_runner"]
+	path = pronat_runner
+	url = git@github.com:weigelt/pronat_runner.git
